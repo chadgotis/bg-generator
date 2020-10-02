@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: montserrat;
+  text-align: center;
+}
+
+body {
+  background: linear-gradient(to right, rgb(194, 255, 194), rgb(255, 87, 87));
+}
+
+h1 {
+  padding: 3rem;
+  opacity: 0.8;
+}
+h2 {
+  padding: 2rem;
+}
